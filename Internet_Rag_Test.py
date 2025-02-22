@@ -79,7 +79,7 @@ def firefox_fetch(url):
 
 def main():
     # Configuration
-    MODEL_PATH = r"C:\Users\leema\AppData\Local\nomic.ai\GPT4All\Llama-3.2-3B-Instruct-Q4_0.gguf"
+    MODEL_PATH = "YOUR_PATH_TO_MODEL.gguf"
     
     # Initialize model once
     try:
